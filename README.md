@@ -40,3 +40,7 @@ direktory aktif menjadi: c:\bahasa_pemrograman\praktikum1</li>
 <ol type="1"><li>$ git remote add origin [URL]</li>
 <li>$ git branch -m main</li></ol></li>
 <li>Jika belum bisa pastikan konfigurasi Config Global Repo sama dengan Akun Github </li></ul>
+
+# screenshoot tugas praktikum 2
+![gambar 1](screenshoot/ss%201.png)
+![gambar 2](screenshoot/ss%202.png)
